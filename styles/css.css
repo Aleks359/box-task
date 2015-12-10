@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    position: relative;
+    margin: 0 auto;
+    width: 940px;
+}
+
+.container {
+    background-color: #88d8fd;
+}
