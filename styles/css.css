@@ -10,4 +10,97 @@
 
 .container {
     background-color: #88d8fd;
+    margin-bottom: 10px;
+}
+
+.red {
+    background-color: #e04e5a
+}
+
+.first {
+    margin-top: -7px;
+    height: 73px;
+}
+
+.small {
+    float: left;
+    width: 58px;
+    height: 63px;
+    margin-right: 22px;
+}
+
+.small:last-child {
+    float: right;
+    margin: 0;
+}
+
+.second {
+    height: 213px;
+    padding: 55px 0;
+}
+
+.big {
+    float: left;
+    width: 140px;
+    height: 103px;
+    margin-right: 20px;
+}
+
+.big:last-child {
+    margin-right: 0;
+}
+
+.third {
+    height: 265px;
+    padding: 10px
+}
+
+.inside {
+    width: 918px;
+    height: 245px;
+    background-color: #e04e5a;
+}
+
+.left {
+    float: left;
+    width: 800px;
+}
+
+.green {
+    float: left;
+    width: 138px;
+    height: 103px;
+    margin: 10px;
+    background-color: #4ee077;
+}
+
+.right {
+    float: right;
+}
+
+.yellow {
+    width: 108px;
+    height: 226px;
+    background-color: #e0cd4e;
+    margin: 10px 10px 10px 0;
+}
+
+.purple {
+    background-color: #8f4ee0;
+}
+
+.outside {
+    position: absolute;
+    top:230px;
+    left: -0;
+    width: 17px;
+    height: 165px;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0;
+    left: 213px;
+    width: 940px;
+    height: 23px;
 }
