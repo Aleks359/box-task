@@ -92,7 +92,7 @@
 .outside {
     position: absolute;
     top:230px;
-    left: -0;
+    left: 0;
     width: 17px;
     height: 165px;
 }
