@@ -18,7 +18,7 @@
 }
 
 .first {
-    height: 73px;
+    padding-bottom: 10px;
 }
 
 .small {
@@ -49,11 +49,10 @@
 }
 
 .third {
-    padding: 10px
+    padding: 10px;
 }
 
 .inside {
-    height: 245px;
     background-color: #e04e5a;
 }
 .green {
@@ -87,7 +86,7 @@
 .bottom {
     position: fixed;
     bottom: 0;
-    left: 213px;
+    left: 205px;
     width: 940px;
     height: 23px;
 }
